@@ -70,13 +70,13 @@ body {
     font-size: 56px;
     font-style: normal;
     font-weight: 700;
-    line-height: 0.107;
+    line-height: 1.07;
     letter-spacing: 0.02em;
 }
 
 .button-title {
     background: #4D5AE5;
-    font-family: Roboto;
+    font-family: Roboto, sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -86,9 +86,9 @@ body {
 }
 
 .button-title:hover {
-    color: #404BBF;
+    background-color: #404BBF;
 }
 
 .button-title:focus {
-    color: #404BBF;
+    background-color: #404BBF;
 }
