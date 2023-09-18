@@ -118,15 +118,18 @@ body {
     letter-spacing: 0.02em;
     text-transform: capitalize;
 }
+.fourth-list {
+    background-color: #FFFFFF;
 
+}
 .third-title-team {
     color: #2E2F42;
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.4px;
-    background-color: #FFFFFF
 }
+
 
 .third-text-team {
     font-size: 16px;
